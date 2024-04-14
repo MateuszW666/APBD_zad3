@@ -1,6 +1,7 @@
 ﻿namespace WebApplication1.Services
 {
-    public class Class
+    public class IAnimalService
     {
+
     }
 }
